@@ -1,0 +1,19 @@
+# ignore files
+keys.py
+keys.txt
+assistants/keys.yaml
+
+#ignore filetype
+*.spec
+*.pyc
+*.wav
+
+
+# ignore folders
+conversations/
+older prompts/
+__pycache__/
+dist/
+build/
+venv/
+.venv/
